@@ -1,0 +1,14 @@
+{
+    "name": "a-dubinin/free-contact-selector",
+    "license": "MIT",
+    "type": "project",
+    "description": "The application to select a contact from DB.",
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "require": {
+        "silex/silex": "~2.0"
+    }
+}
